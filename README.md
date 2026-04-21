@@ -256,8 +256,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **[Yash Patil]**
-- GitHub: [@yourusername](https://github.com/yashpatil7017)
-- LinkedIn: [your-profile](https://linkedin.com/in/yash-patil-606bb32a9)
+- GitHub: [@YashPatil](https://github.com/yashpatil7017)
+- LinkedIn: [Yash-Patil](https://linkedin.com/in/yash-patil-606bb32a9)
   
 ---
 
